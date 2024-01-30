@@ -1,0 +1,6 @@
+notification_id,user_id,message,timestamp
+1,1,"Your charging session is complete.",2023-12-19 09:30:00
+2,2,"Reminder: Your charging session will start soon.",2023-12-19 11:30:00
+3,3,"Notification: New charging station opened nearby.",2023-12-19 13:30:00
+4,4,"Update: Charging station maintenance scheduled.",2023-12-19 15:30:00
+5,5,"Alert: Your subscription is about to expire.",2023-12-19 17:30:00

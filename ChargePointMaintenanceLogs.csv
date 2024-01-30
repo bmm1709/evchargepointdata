@@ -1,0 +1,6 @@
+maintenance_id,station_id,log_date,description
+1,1,2023-12-15,Performed routine maintenance check.
+2,2,2023-12-16,Replaced faulty charging port.
+3,3,2023-12-17,Cleaned charging station area.
+4,4,2023-12-18,Updated firmware for improved performance.
+5,5,2023-12-19,Resolved connectivity issue with power grid.

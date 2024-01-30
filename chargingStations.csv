@@ -1,0 +1,14 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2759
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 charging_station_id,charging_station_name,charging_station_location,number_of_ports,operator_id,port_type_id,port_type_name,power_capacity,port_status\
+1,GreenPower Charge Zone,Central Park Avenue,8,1,1,Type 2,22kW,Available\
+2,EV Go-Station,Downtown Plaza,6,2,2,CHAdeMO,50kW,Available\
+3,SparkCharge Hub,Metro Center Mall,10,3,3,CCS Combo 1,100kW,In Use\
+4,ChargeUp Center,Elm Street Parking Garage,4,1,1,Type 2,22kW,Available\
+5,SwiftCharge Spot,Magnolia Avenue,12,4,2,CHAdeMO,50kW,Out of Order\
+}

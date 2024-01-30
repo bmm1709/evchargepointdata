@@ -1,0 +1,6 @@
+subscription_id,user_id,subscription_type,start_date,end_date
+1,1,Gold,2023-01-01,2023-12-31
+2,2,Silver,2023-02-15,2023-11-30
+3,3,Platinum,2023-03-10,2024-03-09
+4,4,Gold,2023-04-20,2024-04-19
+5,5,Silver,2023-05-05,2023-12-31
